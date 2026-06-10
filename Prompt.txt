@@ -1,0 +1,45 @@
+Prompt 
+
+
+Act as a senior C programming professor evaluating a university lab exam.
+
+Solve the following problem and provide a FULL-MARKS solution.
+
+Problem:
+Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas. The canvas should initially be filled with the character '_' (underscore), and graphical objects should be drawn using the character '*' (asterisk).
+
+Requirements:
+
+Use a 2D character array to represent the canvas.
+Implement separate functions for:
+
+drawCircle()
+drawRectangle()
+drawLine()
+drawTriangle()
+displayCanvas()
+Provide a menu-driven interface.
+Allow users to:
+
+Add objects
+Delete objects
+Modify objects
+Store all graphical objects in an appropriate data structure.
+Redraw the canvas whenever an object is added, deleted, or modified.
+Perform boundary checking to avoid drawing outside the canvas.
+Use structures and enums wherever appropriate.
+Follow modular programming practices.
+Include proper comments and meaningful variable names.
+Handle invalid inputs gracefully.
+Produce a professional output format suitable for university evaluation.
+For the solution, provide:
+
+Algorithm
+Data structures used
+Complete C program
+Explanation of each function
+Time complexity discussion
+Sample input/output runs
+Viva voce questions and answers likely to be asked by an examiner
+Features implemented beyond the basic requirements (if any)
+The code must compile without errors using a standard C compiler (GCC) and should be written in a way that maximizes marks in a university practical examination.
